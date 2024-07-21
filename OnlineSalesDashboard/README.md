@@ -1,6 +1,6 @@
 ## Description
 
-This is a project, which aimed to create a simple dashboard in Power BI based on a fictional sales data. The project 
+This is a project, which aimed to create a simple dashboard in Power BI based on a fictitious sales data. The project 
 served as an introductory exercise to get acquainted with Power BI interface and functions, basics of DAX language
 and the fundamentals of dashboard design.
 
