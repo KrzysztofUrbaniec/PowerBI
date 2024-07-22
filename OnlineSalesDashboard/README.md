@@ -1,3 +1,5 @@
+![Dashboard](https://github.com/KrzysztofUrbaniec/PowerBI/blob/main/OnlineSalesDashboard/Screenshots/Summary%20View.png)
+
 ## Description
 
 This is a project, which aimed to create a simple dashboard in Power BI based on a fictitious sales data. The project 
