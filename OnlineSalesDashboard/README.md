@@ -1,3 +1,5 @@
+# Power BI Dashboard
+
 ![Dashboard](https://github.com/KrzysztofUrbaniec/PowerBI/blob/main/OnlineSalesDashboard/Screenshots/Summary%20View.png)
 
 ## Description
